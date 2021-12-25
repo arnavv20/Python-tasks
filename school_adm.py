@@ -18,3 +18,4 @@ while True:
         True
     elif check=='n':
         False
+csv_f1.close()
